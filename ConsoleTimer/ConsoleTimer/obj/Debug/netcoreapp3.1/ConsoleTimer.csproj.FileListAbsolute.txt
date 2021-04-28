@@ -1,0 +1,13 @@
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\bin\Debug\netcoreapp3.1\ConsoleTimer.exe
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\bin\Debug\netcoreapp3.1\ConsoleTimer.deps.json
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\bin\Debug\netcoreapp3.1\ConsoleTimer.runtimeconfig.json
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\bin\Debug\netcoreapp3.1\ConsoleTimer.runtimeconfig.dev.json
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\bin\Debug\netcoreapp3.1\ConsoleTimer.dll
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\bin\Debug\netcoreapp3.1\ConsoleTimer.pdb
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\obj\Debug\netcoreapp3.1\ConsoleTimer.csprojAssemblyReference.cache
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\obj\Debug\netcoreapp3.1\ConsoleTimer.AssemblyInfoInputs.cache
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\obj\Debug\netcoreapp3.1\ConsoleTimer.AssemblyInfo.cs
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\obj\Debug\netcoreapp3.1\ConsoleTimer.csproj.CoreCompileInputs.cache
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\obj\Debug\netcoreapp3.1\ConsoleTimer.dll
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\obj\Debug\netcoreapp3.1\ConsoleTimer.pdb
+D:\A--Unity  Project\A_MyProject\PETimer\ConsoleTimer\ConsoleTimer\obj\Debug\netcoreapp3.1\ConsoleTimer.genruntimeconfig.cache
